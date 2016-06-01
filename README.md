@@ -14,6 +14,11 @@ My Cloud
  - Ghost as the blog component
  - 
  
+## Workflow
+ - Develop in cloud9
+ - push to git
+ - deploy to Heroku ??
+ - 
 
 
 ## Tech Details
